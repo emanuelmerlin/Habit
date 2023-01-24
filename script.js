@@ -15,7 +15,7 @@ function add(){
     alert("🔴 Dia já incluso 🔴")
     return
     }
-    alert("✅ Dia Incluso com Sucesso ✅")
+    alert("✅ Dia Incluido com Sucesso ✅")
     nlwSetup.addDay(today)
 }
 
