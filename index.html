@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@700&display=swap" rel="stylesheet">
+    
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>HABIT</title>
+</head>
+
+<body>
+
+    <header>
+
+    <img src="./assets/Logo.svg" 
+    alt="Logo marca do  Habit" width="150">
+
+    <button>
+        <img src="./assets/calendaredit.svg" alt="calendario">
+        <div>Registrar o meu dia</div>
+    </button>
+    
+</header>
+
+    <form>
+        <div class="habits">
+            <div class="habit" data-name="run"><img src="./assets/sprint.svg" alt="boneco correndo"> <p>Corrida</div>
+            <div class="habit" data-name="water"><img src="./assets/local_drink.svg" alt="copo de água"><p>2L de Água</div>
+            <div class="habit" data-name="food"><img src="./assets/restaurant.svg" alt="garfo e faca"> <p>Almoço e Janta</div>
+            <div class="habit" data-name="journal"><img src="./assets/menu_book.svg" alt="livro"> <p>Estudos</div>
+            <div class="habit" data-name="takePills"><img src="./assets/admin_meds.svg" alt="simolo remédio"> <p>Remédios</div>
+            
+        </div>
+        
+    
+
+        <div class="days"></div>
+
+    </form>
+
+
+    <script src="https://cdn.jsdelivr.net/gh/maykbrito/libs/NLWSetup/source/NLWSetup.js"></script>
+    <script src="script.js"></script>
+    <script src="jquerry.js"></script>
+
+</body>
+
+</html>
+
