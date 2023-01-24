@@ -27,4 +27,4 @@ Básicamente foi aprendido a criar um site e estiliza-lo
 * JavaScript
 ## Autor 🖋
 
-- [Emanuel Merlin](https://www.github.com/octokatherine)
+- [Emanuel Merlin](https://github.com/emanuelmerlin)
