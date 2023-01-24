@@ -3,7 +3,7 @@
 
 * É um projeto de registro de HabÍtos
 
-Esse projeto é uma adaptação do projeto NLW Habits, mudei algumas coisa para ficar de meu agrado
+Esse projeto é uma adaptação do projeto [NLW Habits](https://github.com/emanuelmerlin/NLW-Habits), mudei algumas coisa para ficar de meu agrado
 
 
 
